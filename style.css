@@ -42,7 +42,7 @@ p{
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url(images/background.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url(background.jpg);
   background-size: cover;
   background-position: center;
   padding: 150px 0;
